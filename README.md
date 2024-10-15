@@ -17,7 +17,7 @@ I created this map because I wanted to continue working with Mapbox as the desig
 Description about how the map was created: Data sourcing took the longest. Really this map is based around what Kind of data I found. SANDAG is a good resource for San Diego, but a lot of the data is almost 10 years old at this point. I tried to get Tree San Diego, a San Diego non profit who maps trees, to offer me data but they said they could not share any. So I resorted to acccumulating layers from QuickOMS. I wish I could have added more to MapBox but it maxxed out at 10 layers. Afterwards, i tried to play with the styles in order to make my map not look so default. 
 
 
-Active link to the final index.html page:
+Active link to the final index.html page:   https://sable666.github.io/
 
 
 
