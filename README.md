@@ -11,6 +11,9 @@ https://geo.sandag.org/portal/apps/experiencebuilder/experience/?id=fad9e9c038c8
 I created this map because I wanted to continue working with Mapbox as the design features render much smoother. QGIS is fun but I can't make a map look as nice as easy there. I mapped Coronado as I use to live there for a few years. I wanted to map Orange Avenue and some of the major tourist hotspots. I tried hard to make the Hotel del Coronado 3d but I couldn't figure out how to eject that layer from the componets. I simply wanted to map some places that would be nice to visit for someone who had never been to Coronado.
 
 
+![Alt text](Screenshot 2024-10-15 154208.png)
+
+
 Description about how the map was created: Data sourcing took the longest. Really this map is based around what Kind of data I found. SANDAG is a good resource for San Diego, but a lot of the data is almost 10 years old at this point. I tried to get Tree San Diego, a San Diego non profit who maps trees, to offer me data but they said they could not share any. So I resorted to acccumulating layers from QuickOMS. I wish I could have added more to MapBox but it maxxed out at 10 layers. Afterwards, i tried to play with the styles in order to make my map not look so default. 
 
 
